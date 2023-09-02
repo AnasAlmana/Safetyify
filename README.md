@@ -17,5 +17,6 @@ python app.y
 ```
 python Safty_CAM.py
 ```
+Try our website: http://ec2-18-206-172-122.compute-1.amazonaws.com
 
 If you face any problems, do not hesitate to contact us: https://aiverse.solutions
